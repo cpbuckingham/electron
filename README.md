@@ -21,3 +21,7 @@ If you want to know more about Electron app's development, please refer to the
 ## License
 
 electron-sample-apps is pulished under the Apache v2 license. See `LICENSE` for details.
+
+## More examples of electron apps
+
+https://github.com/sindresorhus/awesome-electron
